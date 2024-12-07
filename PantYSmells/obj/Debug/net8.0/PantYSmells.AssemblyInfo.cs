@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PantYSmells")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2496b49194720de79d2e27c5b628cfc9e9406086")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a7cbcee08ec7e2cfc91772d969b9a59fd42b77c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PantYSmells")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PantYSmells")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
