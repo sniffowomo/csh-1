@@ -13,3 +13,8 @@ dotnet  --version
 ```
 - This indicates it is installed and ready for pussy licking 
 
+# CSharp Program 
+
+1. After installing the dev kit you have follow their recommended procedure for panty smelling 
+2. And the bin which is built will work on linux as and pussy panty smell yaya fuck all night 
+
