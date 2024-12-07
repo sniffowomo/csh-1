@@ -1,0 +1,15 @@
+/workspaces/csh-1/PantYSmells/bin/Debug/net8.0/PantYSmells
+/workspaces/csh-1/PantYSmells/bin/Debug/net8.0/PantYSmells.deps.json
+/workspaces/csh-1/PantYSmells/bin/Debug/net8.0/PantYSmells.runtimeconfig.json
+/workspaces/csh-1/PantYSmells/bin/Debug/net8.0/PantYSmells.dll
+/workspaces/csh-1/PantYSmells/bin/Debug/net8.0/PantYSmells.pdb
+/workspaces/csh-1/PantYSmells/obj/Debug/net8.0/PantYSmells.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csh-1/PantYSmells/obj/Debug/net8.0/PantYSmells.AssemblyInfoInputs.cache
+/workspaces/csh-1/PantYSmells/obj/Debug/net8.0/PantYSmells.AssemblyInfo.cs
+/workspaces/csh-1/PantYSmells/obj/Debug/net8.0/PantYSmells.csproj.CoreCompileInputs.cache
+/workspaces/csh-1/PantYSmells/obj/Debug/net8.0/PantYSmells.sourcelink.json
+/workspaces/csh-1/PantYSmells/obj/Debug/net8.0/PantYSmells.dll
+/workspaces/csh-1/PantYSmells/obj/Debug/net8.0/refint/PantYSmells.dll
+/workspaces/csh-1/PantYSmells/obj/Debug/net8.0/PantYSmells.pdb
+/workspaces/csh-1/PantYSmells/obj/Debug/net8.0/PantYSmells.genruntimeconfig.cache
+/workspaces/csh-1/PantYSmells/obj/Debug/net8.0/ref/PantYSmells.dll
